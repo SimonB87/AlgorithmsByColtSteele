@@ -1,4 +1,4 @@
-# AlgorithmsByColtSteele
+# Algorithms By Colt Steele
 
 ### Source:
 
